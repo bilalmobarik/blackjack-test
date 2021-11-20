@@ -1,0 +1,40 @@
+body {
+    background-color:darksalmon;
+}
+
+h1 {
+    color: white;
+    margin-top: 15%;
+    font-size: 400%;
+}
+
+#start-btn {
+    margin-right: 0.5%;
+    margin-top: 3%;
+
+}
+
+#new-card-btn {
+    margin-left: 0.5%;
+    margin-top: 3%;
+}
+
+.info {
+    margin-top: 3%;
+    font-size: 200%;
+    color: white;
+}
+
+#card-drawn-el {
+    margin-right: 0.5%;
+}
+
+#total-sum-el {
+    margin-left: 1%;
+}
+
+#message-el {
+    font-size: 300%;
+    color: rgb(184, 25, 199);
+    
+}
